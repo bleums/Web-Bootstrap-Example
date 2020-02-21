@@ -1,6 +1,10 @@
 # Miguel Ángel Osorio Edit for class
 Gihub Pages: https://barbmiguel.github.io/Web-Bootstrap-Example/
 
+# Información sobre la realización del taller
+Durante el taller fue relativamente sencillo el manejo de urls y la inserción de los componentes utilizados.
+Entre las dificultades más relevantes durante el taller, la más relevante fue cuando trataba de modificar los estilos prediseñados para aplicarlos a las modificaciones que hice en las secciones de la página.
+Aprendí la existencia y posible uso de nuevos componentes que no conocía de Bootstrap.
 
 
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
